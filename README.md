@@ -1,6 +1,6 @@
 # Cyclistics---GOOGLE
 
-# Data Cleaning Documentation
+# Data Analysis Process Documentation
 
 ## Steps
 - Import all the CVS files
