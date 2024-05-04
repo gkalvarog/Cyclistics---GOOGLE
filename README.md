@@ -213,7 +213,7 @@ WHERE ride_minutes > 0 AND itinerary IS NOT NULL
 - [Tableau]( https://public.tableau.com/views/cyclisticvisualizations/CNTRidesperWeekdayineachMonth?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
 
 
-Personal note: I could have included the coordinates, so I could make a geolocation analysis as well, but I will leave it for a future works.
+Personal note: I could have included the coordinates, so I could make a geolocation analysis as well, but I will leave it for a future work.
 
 
 ### Now, it is time to create the presentation, responding to the questions:
