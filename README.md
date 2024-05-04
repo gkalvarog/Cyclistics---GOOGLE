@@ -223,4 +223,4 @@ Personal note: I could have included the coordinates, so I could make a geolocat
   - Why would Casual users purchase the Annual Membership?
   - How can social media be used in terms of Marketing Strategy?
 
-  #### And the result can he seen [here](https://slidesgo.com/editor/share/9beea77e-0b6c-4abe-97a5-99110ac3de05#rs=link).
+  #### Answers for these questions [here](https://slidesgo.com/editor/share/9beea77e-0b6c-4abe-97a5-99110ac3de05#rs=link).
