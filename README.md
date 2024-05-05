@@ -3,7 +3,7 @@
 # Data Analysis Process Documentation
 
 ## Steps
-- Import all the CVS files
+- Download all the CVS files from [here](https://divvy-tripdata.s3.amazonaws.com/index.html) and import to BigQuery.
 - Add the `ride_duration` , `weekday`  and `month` columns;
 - Insert `PARSE_TIME('%T', FORMAT_TIMESTAMP('%H:%M:%S', TIMESTAMP_SECONDS(TIMESTAMP_DIFF(TIMESTAMP(ended_at), TIMESTAMP(started_at), SECOND))))` to get the `ride_duration`;
 - Insert `EXTRACT(DAYOFWEEK FROM started_at)` to get the `weekday`;
